@@ -8,7 +8,7 @@ Python programlama ile ilgili kaynak: [**Python Programming for Data Science**](
 
 ## İçerik
 
-1. [Meyilli Azalım (Gradient Descent)](chapters/chapter1_gradient-descent.ipynb)
+1. [Meyilli Azalım (Gradient Descent)](https://github.com/unverciftci/derin_ogrenme_notlari/blob/main/chapters/chapter1_gradient_descent.ipynb)
 2. [Stokastik Meyilli Azalım](chapters/chapter2_stochastic-gradient-descent.ipynb)
 3. [Tensorflow, Keras ve Yapay Sinir Ağlarına (Neural Networks) Giriş](chapters/chapter3_pytorch-neural-networks-pt1.ipynb)
 4. [Yapay Sinir Ağlarının Eğitimi](chapters/chapter4_neural-networks-pt2.ipynb)
