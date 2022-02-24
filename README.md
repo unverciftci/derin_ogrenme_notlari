@@ -14,3 +14,5 @@
 10. [Gelişmiş Evrişimli Yapay Sinir Ağları](chapters/chapter6_cnns-pt2.ipynb)
 11. [Derin Öğrenmede (Deep Learning) İleri Konular](chapters/chapter7_advanced-deep-learning.ipynb)
 
+Python altyapısı için
+https://www.tomasbeuzen.com/python-programming-for-data-science
