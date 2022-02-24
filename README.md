@@ -1,10 +1,6 @@
 # Derin Öğrenme Notları
 
-Bu ders notları Tomas Beuzen'in kitabından uyarlanmıştır.
-
-
-Python programlama ile ilgili kaynak: [**Python Programming for Data Science**](https://www.tomasbeuzen.com/python-programming-for-data-science/). 
-
+Bu ders notları Tomas Beuzen'in kitabından uyarlanmıştır.  
 
 ## İçerik
 
