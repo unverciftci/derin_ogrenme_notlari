@@ -1,7 +1,5 @@
 # Derin Öğrenme Notları
 
-Bu ders notları Tomas Beuzen'in kitabından uyarlanmıştır.  
-
 ## İçerik
 
 1. [Giriş](https://github.com/unverciftci/derin_ogrenme_notlari/blob/main/chapters/Giris.ipynb)
