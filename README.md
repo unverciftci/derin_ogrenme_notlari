@@ -1,5 +1,7 @@
 # Derin Öğrenme Notları
 
+https://github.com/unverciftci/fdl/blob/main/notebooks/01_mnist.ipynb
+
 ## İçerik
 
 1. [Giriş](https://github.com/unverciftci/derin_ogrenme_notlari/blob/main/chapters/Giris.ipynb)
