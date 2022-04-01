@@ -2,6 +2,8 @@
 
 https://github.com/unverciftci/fdl/blob/main/notebooks/01_mnist.ipynb
 
+https://github.com/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb
+
 ## İçerik
 
 1. [Giriş](https://github.com/unverciftci/derin_ogrenme_notlari/blob/main/chapters/Giris.ipynb)
