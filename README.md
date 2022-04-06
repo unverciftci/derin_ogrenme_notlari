@@ -1,5 +1,7 @@
 # Derin Öğrenme Notları
 
+https://jonaslalin.com/2021/12/10/feedforward-neural-networks-part-1/
+
 https://github.com/unverciftci/fdl/blob/main/notebooks/01_mnist.ipynb
 
 https://github.com/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb
